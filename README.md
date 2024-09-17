@@ -1,4 +1,5 @@
 ---
+description: Kcalb Investors is currently under development.
 cover: .gitbook/assets/Color logo - no background.png
 coverY: 0
 layout:
@@ -8,7 +9,7 @@ layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -19,9 +20,7 @@ layout:
 
 # 🔜 Coming soon
 
-[**Kcalb Investors**](https://kcalb-investors.org/) is currently under development.
-
-Follow us on [**Telegram**](https://kcalb-investors.org/) or [**subscribe**](https://aecb16de.sibforms.com/serve/MUIFAODj8\_SyoNk-A811bPCNg1AeYVA\_YwyOXDZ0YB1I-KkJMVHJq6MvDfsc6-fGEUSga\_SBYz7u1mf7d1i3170B78pxu-bXf0gr6T\_PpqBVgEkIIcLrYqttGeXdqNuwaom-XBjkSeUkMMDIjK68qeyooKQYv-mMs5wURcDCH9iKvTnDdrIFk2PIPvBzIkU-FjsXmR95eV\_qOyZN) to our newsletter to stay informed about developments, special offers, and community events.
+Follow [**Kcalb Investors**](https://kcalb-investors.org/) on [**Telegram**](https://kcalb-investors.org/) or [**subscribe**](https://aecb16de.sibforms.com/serve/MUIFAODj8\_SyoNk-A811bPCNg1AeYVA\_YwyOXDZ0YB1I-KkJMVHJq6MvDfsc6-fGEUSga\_SBYz7u1mf7d1i3170B78pxu-bXf0gr6T\_PpqBVgEkIIcLrYqttGeXdqNuwaom-XBjkSeUkMMDIjK68qeyooKQYv-mMs5wURcDCH9iKvTnDdrIFk2PIPvBzIkU-FjsXmR95eV\_qOyZN) to the newsletter to stay informed about developments, community events and special offers.
 
 <div align="left">
 
